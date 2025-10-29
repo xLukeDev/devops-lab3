@@ -2,5 +2,5 @@
 
 Imie: Łukasz
 Nazwisko: Wojda
-Ulubiona technologia: C#
+Ulubiona technologia: C#, Unity
 
